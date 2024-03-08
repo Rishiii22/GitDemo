@@ -1,0 +1,6 @@
+Note : This template needs to be strictly followed to send response. We will validate if you are real enrolled user before sending the resources needed.
+
+ Name (Exact name as how you enrolled)
+ Website in which you have enrolled
+ Which course resources you need? Mention the exact title of the course name here (Only one course details should be given for one email)
+ What resources you need? At this time, we support only Interview Questions, Resume Prep, Ma
